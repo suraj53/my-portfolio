@@ -26,7 +26,7 @@ export default function Contact() {
 
         {/* Contact Info */}
         <div className="mt-8 flex flex-col items-center gap-3 text-gray-700 dark:text-gray-300">
-          <div className="flex items-center gap-2">
+          {/* <div className="flex items-center gap-2">
             <FaEnvelope className="text-lg text-gray-500 dark:text-gray-400" />
             <a
               href="mailto:surajcsgo@gmail.com"
@@ -34,9 +34,9 @@ export default function Contact() {
             >
               surajcsgo@gmail.com
             </a>
-          </div>
+          </div> */}
 
-          <div className="flex items-center gap-2">
+          {/* <div className="flex items-center gap-2">
             <FaPhoneAlt className="text-lg text-gray-500 dark:text-gray-400" />
             <a
               href="tel:+919984904063"
@@ -44,7 +44,7 @@ export default function Contact() {
             >
               +91 99849 04063
             </a>
-          </div>
+          </div> */}
         </div>
 
         {/* Social Links */}
